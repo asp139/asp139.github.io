@@ -33,13 +33,11 @@
 				<adlcp:location>metadata.xml</adlcp:location> 
 			</metadata>
 			
-			<file href="7796AppleEducationNewAccountSetUpForm.pdf"/>
+			<file href="ar/KeyClick.mp3"/>
 		    <file href="index.html"/>
 			<file href="scormdriver.js"/>
 			<file href="browsersniff.js"/>
 			
-<file href="AppleEducationNewAccountSetUpForm.pdf"/> 
-<file href="ar/KeyClick.mp3"/> 
 <file href="assets/htmlimages/Answer_checkbox_correct.png"/> 
 <file href="assets/htmlimages/Answer_checkbox_incorrect.png"/> 
 <file href="assets/htmlimages/Answer_radio_correct.png"/> 
@@ -54,12 +52,16 @@
 <file href="dist/vendors-main.chunk.js.LICENSE.txt"/> 
 <file href="dist/vendors-main.chunk.js.br"/> 
 <file href="dr/01028.png"/> 
+<file href="dr/011184.png"/> 
+<file href="dr/011193.png"/> 
+<file href="dr/011276.jpg"/> 
 <file href="dr/01187.svg"/> 
 <file href="dr/01207.svg"/> 
+<file href="dr/012685.png"/> 
+<file href="dr/012729.png"/> 
 <file href="dr/02287.svg"/> 
 <file href="dr/02298.svg"/> 
 <file href="dr/02977.svg"/> 
-<file href="dr/03144.png"/> 
 <file href="dr/03173.png"/> 
 <file href="dr/03283.png"/> 
 <file href="dr/03393.png"/> 
@@ -67,7 +69,6 @@
 <file href="dr/03613.png"/> 
 <file href="dr/03723.png"/> 
 <file href="dr/03825.svg"/> 
-<file href="dr/04062.jpeg"/> 
 <file href="dr/04104.jpg"/> 
 <file href="dr/04168.jpg"/> 
 <file href="dr/04170.jpeg"/> 
@@ -77,24 +78,29 @@
 <file href="dr/04668.png"/> 
 <file href="dr/04670.png"/> 
 <file href="dr/04674.png"/> 
+<file href="dr/04678.jpg"/> 
 <file href="dr/05412.jpeg"/> 
 <file href="dr/0572.svg"/> 
 <file href="dr/05919.png"/> 
-<file href="dr/06167.svg"/> 
 <file href="dr/07494.png"/> 
 <file href="dr/07497.png"/> 
-<file href="dr/07500.jpg"/> 
 <file href="dr/07953.jpeg"/> 
 <file href="dr/07973.jpeg"/> 
 <file href="dr/07979.png"/> 
+<file href="dr/08178.svg"/> 
 <file href="dr/0851.png"/> 
 <file href="dr/0910.png"/> 
 <file href="dr/0969.png"/> 
+<file href="dr/09838.gif"/> 
+<file href="dr/09840.png"/> 
+<file href="dr/09843.png"/> 
+<file href="dr/09846.jpg"/> 
 <file href="dr/loading.gif"/> 
 <file href="goodbye.html"/> 
 <file href="index.html"/> 
 <file href="pools/243/243.js"/> 
 <file href="project.txt"/> 
+<file href="vr/Vi12678.mp4"/> 
 <file href="Utilities.js"/> 
 		</resource>
 	</resources>
