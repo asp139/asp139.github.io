@@ -33,11 +33,13 @@
 				<adlcp:location>metadata.xml</adlcp:location> 
 			</metadata>
 			
-			<file href="ar/KeyClick.mp3"/>
+			<file href="Apple Credit Application .pdf"/>
 		    <file href="index.html"/>
 			<file href="scormdriver.js"/>
 			<file href="browsersniff.js"/>
 			
+<file href="AppleEducationNewAccountSetUpForm.pdf"/> 
+<file href="ar/KeyClick.mp3"/> 
 <file href="assets/htmlimages/Answer_checkbox_correct.png"/> 
 <file href="assets/htmlimages/Answer_checkbox_incorrect.png"/> 
 <file href="assets/htmlimages/Answer_radio_correct.png"/> 
@@ -55,10 +57,24 @@
 <file href="dr/011184.png"/> 
 <file href="dr/011193.png"/> 
 <file href="dr/011276.jpg"/> 
+<file href="dr/011364.svg"/> 
+<file href="dr/011407.svg"/> 
+<file href="dr/011450.svg"/> 
+<file href="dr/011493.svg"/> 
+<file href="dr/011536.svg"/> 
+<file href="dr/011579.svg"/> 
 <file href="dr/01187.svg"/> 
 <file href="dr/01207.svg"/> 
 <file href="dr/012685.png"/> 
 <file href="dr/012729.png"/> 
+<file href="dr/013512.jpg"/> 
+<file href="dr/013552.png"/> 
+<file href="dr/014889.png"/> 
+<file href="dr/014965.png"/> 
+<file href="dr/015041.png"/> 
+<file href="dr/015117.png"/> 
+<file href="dr/015193.png"/> 
+<file href="dr/015269.png"/> 
 <file href="dr/02287.svg"/> 
 <file href="dr/02298.svg"/> 
 <file href="dr/02977.svg"/> 
@@ -78,7 +94,6 @@
 <file href="dr/04668.png"/> 
 <file href="dr/04670.png"/> 
 <file href="dr/04674.png"/> 
-<file href="dr/04678.jpg"/> 
 <file href="dr/05412.jpeg"/> 
 <file href="dr/0572.svg"/> 
 <file href="dr/05919.png"/> 
