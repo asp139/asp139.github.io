@@ -65,8 +65,6 @@
 <file href="dr/011579.svg"/> 
 <file href="dr/01187.svg"/> 
 <file href="dr/01207.svg"/> 
-<file href="dr/012685.png"/> 
-<file href="dr/012729.png"/> 
 <file href="dr/013512.jpg"/> 
 <file href="dr/013552.png"/> 
 <file href="dr/014889.png"/> 
@@ -75,6 +73,8 @@
 <file href="dr/015117.png"/> 
 <file href="dr/015193.png"/> 
 <file href="dr/015269.png"/> 
+<file href="dr/019762.png"/> 
+<file href="dr/019768.png"/> 
 <file href="dr/02287.svg"/> 
 <file href="dr/02298.svg"/> 
 <file href="dr/02977.svg"/> 
@@ -115,7 +115,8 @@
 <file href="index.html"/> 
 <file href="pools/243/243.js"/> 
 <file href="project.txt"/> 
-<file href="vr/Vi12678.mp4"/> 
+<file href="vr/Vi19759.mp4"/> 
+<file href="vr/Vi19765.mp4"/> 
 <file href="Utilities.js"/> 
 		</resource>
 	</resources>
