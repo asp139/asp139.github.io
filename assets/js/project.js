@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:49686,
-to:49775,
+from:63073,
+to:63162,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -729,8 +729,8 @@ vb:[-1,-1,2,2]
 si3958:{
 name:'Image_1',
 type:1268,
-from:91,
-to:180,
+from:49866,
+to:49955,
 rp:0,
 rpa:0,
 mdi:'si3958c',
@@ -896,8 +896,8 @@ vb:[-1,-1,1,1]
 si3966:{
 name:'Image_Group_1',
 type:1268,
-from:91,
-to:180,
+from:49866,
+to:49955,
 rp:0,
 rpa:0,
 mdi:'si3966c',
@@ -1469,8 +1469,8 @@ vb:[-1,-1,2949,1059]
 si3987:{
 name:'Image_Group_Text_7',
 type:1268,
-from:91,
-to:180,
+from:49866,
+to:49955,
 rp:0,
 rpa:0,
 mdi:'si3987c',
@@ -1640,8 +1640,8 @@ vb:[-1,-1,1,1]
 si3995:{
 name:'Text_92',
 type:1250,
-from:91,
-to:180,
+from:49866,
+to:49955,
 rp:0,
 rpa:0,
 mdi:'si3995c',
@@ -1660,7 +1660,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true,"mobile":{"left":25,"right":0,"top":0,"bottom":0},"tablet":{"left":45,"right":0,"top":0,"bottom":0},"left":80,"right":0,"top":0,"bottom":0}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true,"mobile":{"left":28,"right":0,"top":0,"bottom":0},"tablet":{"left":51,"right":0,"top":0,"bottom":0},"left":90,"right":0,"top":0,"bottom":0}}',
 parentGroup:'si3987',
 retainState:false,
 immo:false,
@@ -1671,7 +1671,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"dmk6o","text":"Whether you\'re here for the first time, or you\'re returning to update your purchasing contract, you\'re in the right place! ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":123,"style":"textHighlightEnable:false"},{"offset":0,"length":123,"style":"textTransform:none"},{"offset":0,"length":123,"style":"lineHeight:100%"},{"offset":0,"length":123,"style":"textShadowOpacity:none"},{"offset":0,"length":123,"style":"overridden:true"},{"offset":0,"length":123,"style":"textDecoration:none"},{"offset":0,"length":123,"style":"fontType:bold"},{"offset":0,"length":123,"style":"desktop-fontSize:20"},{"offset":0,"length":123,"style":"borderBottomStyle:none"},{"offset":0,"length":123,"style":"fontWeight:bold"},{"offset":0,"length":123,"style":"textShadowEnable:false"},{"offset":0,"length":123,"style":"hlnk:"},{"offset":0,"length":123,"style":"textShadowBlur:8px"},{"offset":0,"length":123,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":123,"style":"backgroundColor:unset"},{"offset":0,"length":123,"style":"fontStyle:normal"},{"offset":0,"length":123,"style":"hlnkt:wp"},{"offset":0,"length":123,"style":"fontFamily:\\"Myriad Set\\""},{"offset":0,"length":123,"style":"tablet-fontSize:20"},{"offset":0,"length":123,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":123,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":123,"style":"textOutlineEnable:false"},{"offset":0,"length":123,"style":"opacity:1"},{"offset":0,"length":123,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":123,"style":"hlnke:true"},{"offset":0,"length":123,"style":"defaultTextShadow:none"},{"offset":0,"length":123,"style":"textShadow:none"},{"offset":0,"length":123,"style":"mobile-fontSize:18"},{"offset":0,"length":123,"style":"textShadowX:0px"},{"offset":0,"length":123,"style":"fontStretch:normal"},{"offset":0,"length":123,"style":"color:#666666"},{"offset":0,"length":123,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":123,"style":"textShadowY:4px"},{"offset":0,"length":123,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":123,"style":"letterSpacing:2%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"dmk6o","text":"Whether you\'re here for the first time, or you\'re returning to update your purchasing contract, you\'re in the right place! ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":123,"style":"textDecoration:none"},{"offset":0,"length":123,"style":"fontType:bold"},{"offset":0,"length":123,"style":"borderBottomStyle:none"},{"offset":0,"length":123,"style":"fontWeight:bold"},{"offset":0,"length":123,"style":"textShadowEnable:false"},{"offset":0,"length":123,"style":"hlnk:"},{"offset":0,"length":123,"style":"textShadowBlur:8px"},{"offset":0,"length":123,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":123,"style":"defaultTextShadow:none"},{"offset":0,"length":123,"style":"fontStyle:normal"},{"offset":0,"length":123,"style":"desktop-fontSize:18"},{"offset":0,"length":123,"style":"fontFamily:\\"Myriad Set\\""},{"offset":0,"length":123,"style":"hlnkt:wp"},{"offset":0,"length":123,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":123,"style":"tablet-fontSize:20"},{"offset":0,"length":123,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":123,"style":"textOutlineEnable:false"},{"offset":0,"length":123,"style":"opacity:1"},{"offset":0,"length":123,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":123,"style":"hlnke:true"},{"offset":0,"length":123,"style":"backgroundColor:unset"},{"offset":0,"length":123,"style":"textShadow:none"},{"offset":0,"length":123,"style":"mobile-fontSize:18"},{"offset":0,"length":123,"style":"textShadowX:0px"},{"offset":0,"length":123,"style":"fontStretch:normal"},{"offset":0,"length":123,"style":"color:#666666"},{"offset":0,"length":123,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":123,"style":"textShadowY:4px"},{"offset":0,"length":123,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":123,"style":"letterSpacing:2%"},{"offset":0,"length":123,"style":"textHighlightEnable:false"},{"offset":0,"length":123,"style":"textTransform:none"},{"offset":0,"length":123,"style":"lineHeight:100%"},{"offset":0,"length":123,"style":"textShadowOpacity:none"},{"offset":0,"length":123,"style":"overridden:true"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -3865,8 +3865,8 @@ vb:[-2,-2,-1,-1]
 Slide427:{
 lb:'Intro',
 id:427,
-from:91,
-to:180,
+from:49866,
+to:49955,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -3962,8 +3962,8 @@ visible:'1'
 si4096:{
 name:'Scenario-Block_1',
 type:1268,
-from:32519,
-to:32608,
+from:63163,
+to:63252,
 rp:0,
 rpa:0,
 mdi:'si4096c',
@@ -4701,8 +4701,8 @@ vb:[-1,-1,3877,3871]
 si4127:{
 name:'Character_Group_1',
 type:1268,
-from:32519,
-to:32608,
+from:63163,
+to:63252,
 rp:0,
 rpa:0,
 mdi:'si4127c',
@@ -4877,8 +4877,8 @@ vb:[-1,-1,1,1]
 si4135:{
 name:'Text_94',
 type:1250,
-from:32519,
-to:32608,
+from:63163,
+to:63252,
 rp:0,
 rpa:0,
 mdi:'si4135c',
@@ -4908,7 +4908,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"bh9qn","text":"Learning Objectives","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"fontFamily:\\"\'Myriad Set\'\\""},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"letterSpacing:0%"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"lineHeight:120%"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"fontWeight:bold"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"color:#D94A4A"},{"offset":0,"length":19,"style":"desktop-fontSize:36"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"mobile-fontSize:24"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"tablet-fontSize:28"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-6","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"bh9qn","text":"Learning Objectives","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"mobile-fontSize:24"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"tablet-fontSize:28"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"fontFamily:\\"\'Myriad Set\'\\""},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"letterSpacing:0%"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"lineHeight:120%"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"fontWeight:bold"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"color:#D94A4A"},{"offset":0,"length":19,"style":"desktop-fontSize:36"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-6","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -5349,8 +5349,8 @@ vb:[-2,-2,-1,-1]
 Slide4078:{
 lb:'Learning Objectives',
 id:4078,
-from:32519,
-to:32608,
+from:63163,
+to:63252,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -77519,8 +77519,8 @@ visible:'1'
 si12186:{
 name:'Paragraph_25',
 type:1268,
-from:34319,
-to:34408,
+from:49956,
+to:50045,
 rp:0,
 rpa:0,
 mdi:'si12186c',
@@ -77686,8 +77686,8 @@ vb:[-1,-1,1,1]
 si12194:{
 name:'Paragraph_Group_7',
 type:1268,
-from:34319,
-to:34408,
+from:49956,
+to:50045,
 rp:0,
 rpa:0,
 mdi:'si12194c',
@@ -77858,8 +77858,8 @@ vb:[-1,-1,1,1]
 si12202:{
 name:'Text_154',
 type:1250,
-from:34319,
-to:34408,
+from:49956,
+to:50045,
 rp:0,
 rpa:0,
 mdi:'si12202c',
@@ -77889,7 +77889,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"4j95h","text":"Sales Tax Exemption","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"letterSpacing:-4%"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"fontFamily:\\"\'Myriad Set\'\\""},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"desktop-fontSize:60"},{"offset":0,"length":19,"style":"lineHeight:110%"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"fontWeight:bold"},{"offset":0,"length":19,"style":"mobile-fontSize:60"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"color:#D94A4A"},{"offset":0,"length":19,"style":"tablet-fontSize:72"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"4j95h","text":"Sales Tax Exemption","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"color:#D94A4A"},{"offset":0,"length":19,"style":"tablet-fontSize:72"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"letterSpacing:-4%"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"fontFamily:\\"\'Myriad Set\'\\""},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"desktop-fontSize:60"},{"offset":0,"length":19,"style":"lineHeight:110%"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"fontWeight:bold"},{"offset":0,"length":19,"style":"mobile-fontSize:60"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -78161,8 +78161,8 @@ vb:[-1,-1,2,2]
 si18525:{
 name:'Block_Button_17',
 type:1268,
-from:991,
-to:1080,
+from:49956,
+to:50045,
 rp:0,
 rpa:0,
 mdi:'si18525c',
@@ -78328,8 +78328,8 @@ vb:[-1,-1,1,1]
 si18519:{
 name:'Block_Button_Group_17',
 type:1268,
-from:991,
-to:1080,
+from:49956,
+to:50045,
 rp:0,
 rpa:0,
 mdi:'si18519c',
@@ -78688,8 +78688,8 @@ vb:[-2,-2,-1,-1]
 si18398:{
 name:'Button_303',
 type:29,
-from:991,
-to:1080,
+from:49956,
+to:50045,
 rp:0,
 rpa:0,
 mdi:'si18398c',
@@ -78717,7 +78717,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(18882);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(18882,3070);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -80084,8 +80084,8 @@ vb:[-2,-2,-1,-1]
 Slide11278:{
 lb:'tax exemption',
 id:11278,
-from:34319,
-to:34408,
+from:49956,
+to:50045,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -98601,8 +98601,8 @@ vb:[-2,-2,-1,-1]
 Slide3070:{
 lb:'types of PA',
 id:3070,
-from:36209,
-to:36298,
+from:50046,
+to:50135,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -105177,8 +105177,8 @@ vb:[-278,-157,1644,925]
 si12756:{
 name:'Paragraph_26',
 type:1268,
-from:36839,
-to:42132,
+from:57779,
+to:63072,
 rp:0,
 rpa:0,
 mdi:'si12756c',
@@ -105344,8 +105344,8 @@ vb:[-1,-1,1,1]
 si12764:{
 name:'Paragraph_Group_8',
 type:1268,
-from:19762,
-to:25055,
+from:57779,
+to:63072,
 rp:0,
 rpa:0,
 mdi:'si12764c',
@@ -105512,8 +105512,8 @@ vb:[-1,-1,1,1]
 si12788:{
 name:'Text_163',
 type:1250,
-from:19762,
-to:25055,
+from:57779,
+to:63072,
 rp:0,
 rpa:0,
 mdi:'si12788c',
@@ -109280,8 +109280,8 @@ vb:[-1,-1,1,1]
 Slide4833:{
 lb:'ADCA overview',
 id:4833,
-from:36839,
-to:42132,
+from:57779,
+to:63072,
 iols:0,
 i360qs:false,
 sdu:176.4,
@@ -109916,8 +109916,8 @@ vb:[-278,-157,1644,925]
 si20144:{
 name:'Paragraph_28',
 type:1268,
-from:42133,
-to:49505,
+from:50226,
+to:57598,
 rp:0,
 rpa:0,
 mdi:'si20144c',
@@ -110083,8 +110083,8 @@ vb:[-1,-1,1,1]
 si20138:{
 name:'Paragraph_Group_10',
 type:1268,
-from:25056,
-to:32428,
+from:50226,
+to:57598,
 rp:0,
 rpa:0,
 mdi:'si20138c',
@@ -110251,8 +110251,8 @@ vb:[-1,-1,1,1]
 si20087:{
 name:'Text_308',
 type:1250,
-from:25056,
-to:32428,
+from:50226,
+to:57598,
 rp:0,
 rpa:0,
 mdi:'si20087c',
@@ -110404,8 +110404,8 @@ vb:[-1,-1,2,2]
 si20312:{
 name:'Block_Button_21',
 type:1268,
-from:42133,
-to:49505,
+from:50226,
+to:57598,
 rp:0,
 rpa:0,
 mdi:'si20312c',
@@ -110571,8 +110571,8 @@ vb:[-1,-1,1,1]
 si20306:{
 name:'Block_Button_Group_21',
 type:1268,
-from:25056,
-to:32428,
+from:50226,
+to:57598,
 rp:0,
 rpa:0,
 mdi:'si20306c',
@@ -110931,8 +110931,8 @@ vb:[-2,-2,-1,-1]
 si20188:{
 name:'Button_313',
 type:29,
-from:25056,
-to:32428,
+from:50226,
+to:57598,
 rp:0,
 rpa:0,
 mdi:'si20188c',
@@ -110960,7 +110960,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(20172);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(20172,13495);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -114019,8 +114019,8 @@ vb:[-1,-1,1,1]
 Slide20526:{
 lb:'ADCA video',
 id:20526,
-from:42133,
-to:49505,
+from:50226,
+to:57598,
 iols:0,
 i360qs:false,
 sdu:245.8,
@@ -116524,8 +116524,8 @@ vb:[-2,-2,-1,-1]
 Slide13495:{
 lb:'ADCA wrap up',
 id:13495,
-from:49596,
-to:49685,
+from:57599,
+to:57688,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -117234,11 +117234,11 @@ text:[]
 }
 ,{
 link:4833,
-text:['""','""','""','""']
+text:['""','""','""','""','""']
 }
 ,{
 link:20526,
-text:['""','""']
+text:['""','""','""']
 }
 ,{
 link:8000,
